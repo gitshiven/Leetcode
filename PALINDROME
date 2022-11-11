@@ -16,7 +16,7 @@ return x == num;
 }
 }
 
-// easy understanding for beginners
+// Easier walkthrough
 /*
 class Solution {
     public boolean isPalindrome(int x) {
